@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        println("peleg")
+        println("omri")
     }
 
     override func didReceiveMemoryWarning() {
